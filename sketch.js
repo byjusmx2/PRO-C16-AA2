@@ -61,7 +61,7 @@ function setup() {
   invisibleGround = createSprite(200,190,400,10);
   invisibleGround.visible = false;
   
-  //create Obstacle and Cloud Groups
+  //create grupos de onstáculos y nubes
   obstaclesGroup = createGroup();
   cloudsGroup = createGroup();
   
